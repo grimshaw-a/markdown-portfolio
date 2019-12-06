@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of headphones](https://media.gettyimages.com/photos/modern-greek-goddess-with-headphones-picture-id1170360477?s=2048x2048)
